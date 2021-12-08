@@ -13,6 +13,7 @@ namespace LearnGitAsp
 {
     public class Startup
     {
+        // this is to test revert
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
