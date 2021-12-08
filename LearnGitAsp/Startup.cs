@@ -26,6 +26,7 @@ namespace LearnGitAsp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            //committed for cherry pick
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
