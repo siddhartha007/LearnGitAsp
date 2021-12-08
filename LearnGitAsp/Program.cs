@@ -11,6 +11,8 @@ namespace LearnGitAsp
 {
     public class Program
     {
+
+        //direct push with out staging
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
