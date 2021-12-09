@@ -17,7 +17,7 @@ namespace LearnGitAsp
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //Just to test amend commit message
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
